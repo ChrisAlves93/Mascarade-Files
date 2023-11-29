@@ -62,5 +62,5 @@ def check_directory(directory_path):
     return mismatched_files  # Returns any mismatched files
 
 # Usage
-directory_to_check = 'h/Users/' # <-- Add your path to directory here.
+directory_to_check = '/path/to/your/directory' # <-- Add your path to directory here.
 print(check_directory(directory_to_check))
