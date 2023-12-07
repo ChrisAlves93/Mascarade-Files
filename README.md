@@ -50,3 +50,7 @@ git clone [repository URL]
 - `get_file_signature(file_path)`: Function to extract the signature of a file.
 - `check_file_signature(file_path)`: Function to verify the file's signature against expected values.
 - `check_directory(directory_path)`: Function to scan a directory and identify files with mismatched signatures.
+
+## Final Project Demo
+
+[![](https://img.youtube.com/vi/ACQtvtDJO30/0.jpg)](https://youtu.be/ACQtvtDJO30?si=Nrh59phMJ7bswHGg)
