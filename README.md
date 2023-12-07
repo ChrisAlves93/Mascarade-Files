@@ -1,5 +1,5 @@
 # File Signature Verification
-CIS 442 (Digital Forensics Project)
+This repository was created as a requirement of CIS 442 (Digital Forensics Project) at UMass Dartmouth.
 
 ## Introduction
 This Python script provides a solution for verifying the integrity and authenticity of files in a directory. It reads the file signatures (mime files) and compares them with expected values based on the file's extension. This tool is particularly useful in scenarios involving security checks, data validation, or forensic analysis.
